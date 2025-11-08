@@ -1,0 +1,3 @@
+[submodule "osu-file-parser"]
+	path = osu-file-parser
+	url = https://github.com/TannerLow/osu-file-parser
